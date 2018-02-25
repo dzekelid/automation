@@ -1,5 +1,4 @@
 ---
----
 name: AWS Step Functions
 description: AWS Step Functions makes it easy to coordinate the components of distributed
   applications and microservices using visual workflows. Building applications from
@@ -29,7 +28,17 @@ created: "2018-02-24"
 modified: "2018-02-24"
 url: https://raw.githubusercontent.com/streamdata-gallery/automation/master/_listings/aws-step-functions/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Step Functions API
+  description: AWS Step Functions makes it easy to coordinate the components of distributed
+    applications and microservices using visual workflows
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-step-functions.png
+  humanURL: ""
+  baseURL: :///
+  tags: Automation
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/automation/master/_listings/aws-step-functions/action-stopexecution-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/step-functions/latest/apireference/Welcome.html
@@ -48,6 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
