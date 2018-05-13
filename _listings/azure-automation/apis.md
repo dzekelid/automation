@@ -28,17 +28,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-webhooks-get.md
-- name: Azure Automation API Job Schedule List By Automation Account
-  description: Retrieve a list of job schedules.
+- name: Azure Automation API Module List By Automation Account
+  description: Retrieve a list of modules.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png
   humanURL: https://azure.microsoft.com/en-us/services/automation/
   baseURL: http:://management.azure.com//
   tags: Automation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-jobschedules-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-modules-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-jobschedules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-modules-get-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/automation/
