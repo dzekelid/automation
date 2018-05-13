@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Get Automation Execution
   version: 1.0.0
+  description: Get detailed information about a particular Automation execution.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetAutomationExecution&k=1:
+  /?Action=GetAutomationExecution:
     get:
       summary: ' Get Automation Execution '
       description: Get detailed information about a particular Automation execution
