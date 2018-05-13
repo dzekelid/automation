@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Start Automation Execution
   version: 1.0.0
+  description: Initiates execution of an Automation document.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StartAutomationExecution&k=1:
+  /?Action=StartAutomationExecution:
     get:
       summary: ' Start Automation Execution '
       description: Initiates execution of an Automation document
