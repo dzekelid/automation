@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Job List By Automation Account
   version: 1.0.0
+  description: Retrieve a list of jobs.
 host: management.azure.com
 basePath: /
 schemes:
