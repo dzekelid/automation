@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/automation/master/_listings/aws-ec2-systems-manager/action-stopautomationexecution-get.md
-- name: Amazon EC2 Systems Manager API Start Automation Execution
-  description: Initiates execution of an Automation document.
+- name: Amazon EC2 Systems Manager API Stop Automation Execution
+  description: Stop an Automation that is currently executing.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
   humanURL: https://aws.amazon.com/ec2/systems-manager/
   baseURL: http:://{host}//
   tags: Automation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-ec2-systems-manager/action-startautomationexecution-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-ec2-systems-manager/action-stopautomationexecution-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/ssm/latest/APIReference/Welcome.html
