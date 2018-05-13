@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Automation Account List By Resource Group
   version: 1.0.0
+  description: Retrieve a list of accounts within a given resource group.
 host: management.azure.com
 basePath: /
 schemes:
