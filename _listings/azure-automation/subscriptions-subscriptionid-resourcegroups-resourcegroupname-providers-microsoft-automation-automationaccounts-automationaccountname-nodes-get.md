@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Dsc Node List By Automation Account
   version: 1.0.0
+  description: Retrieve a list of dsc nodes.
 host: management.azure.com
 basePath: /
 schemes:
