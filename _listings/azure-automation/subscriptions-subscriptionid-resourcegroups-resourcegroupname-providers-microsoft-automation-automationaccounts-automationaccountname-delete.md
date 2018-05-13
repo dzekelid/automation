@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Automation Account Delete
   version: 1.0.0
+  description: Delete an automation account.
 host: management.azure.com
 basePath: /
 schemes:
