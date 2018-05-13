@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Describe Automation Executions
   version: 1.0.0
+  description: Provides details about all active and terminated Automation executions.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeAutomationExecutions&k=1:
+  /?Action=DescribeAutomationExecutions:
     get:
       summary: ' Describe Automation Executions '
       description: Provides details about all active and terminated Automation executions
