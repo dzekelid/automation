@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Statistics List By Automation Account
   version: 1.0.0
+  description: Retrieve the statistics for the account.
 host: management.azure.com
 basePath: /
 schemes:
