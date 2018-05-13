@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Stop Automation Execution
   version: 1.0.0
+  description: Stop an Automation that is currently executing.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StopAutomationExecution&k=1:
+  /?Action=StopAutomationExecution:
     get:
       summary: ' Stop Automation Execution '
       description: Stop an Automation that is currently executing
