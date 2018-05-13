@@ -28,7 +28,26 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-webhooks-get.md
+- name: Azure Automation API Automation Account Update
+  description: Update an automation account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png
+  humanURL: https://azure.microsoft.com/en-us/services/automation/
+  baseURL: http:://management.azure.com//
+  tags: Automation
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-automation-automationaccounts-automationaccountname-patch.md
 x-common:
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/azure/automation/
+- type: x-pricing
+  url: https://azure.microsoft.com/en-us/pricing/details/automation/
+- type: x-service-level-agreements
+  url: https://azure.microsoft.com/en-us/support/legal/sla/automation/
+- type: x-status
+  url: https://azure.microsoft.com/en-us/status/
+- type: x-website
+  url: https://azure.microsoft.com/en-us/services/automation/
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/automation/
 - type: x-pricing
