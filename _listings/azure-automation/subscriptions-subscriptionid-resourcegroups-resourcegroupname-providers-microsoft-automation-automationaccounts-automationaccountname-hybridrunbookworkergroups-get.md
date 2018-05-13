@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Hybrid Runbook Worker Group List By Automation Account
   version: 1.0.0
+  description: Retrieve a list of hybrid runbook worker groups.
 host: management.azure.com
 basePath: /
 schemes:
