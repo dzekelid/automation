@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Automation Account Update
   version: 1.0.0
+  description: Update an automation account.
 host: management.azure.com
 basePath: /
 schemes:
