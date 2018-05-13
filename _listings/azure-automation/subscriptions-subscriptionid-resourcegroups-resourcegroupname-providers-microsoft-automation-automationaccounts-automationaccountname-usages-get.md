@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Usages List By Automation Account
   version: 1.0.0
+  description: Retrieve the usage for the account id.
 host: management.azure.com
 basePath: /
 schemes:
