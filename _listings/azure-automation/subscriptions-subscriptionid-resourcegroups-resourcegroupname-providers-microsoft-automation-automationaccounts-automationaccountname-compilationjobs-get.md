@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AutomationManagementClient
+  title: Azure Automation API Dsc Compilation Job List By Automation Account
   version: 1.0.0
+  description: Retrieve a list of dsc compilation jobs.
 host: management.azure.com
 basePath: /
 schemes:
