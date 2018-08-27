@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20092-opto
 x-kinRank: "8"
 x-alexaRank: "389601"
 tags: Automation
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/opto-22/apis.md
 specificationVersion: "0.14"
 apis: []

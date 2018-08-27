@@ -1,0 +1,375 @@
+{
+	"name": "Streadata.io API Gallery - Automation",
+	"description": "This is a repository of automation APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/automation.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://automation.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Zapier",
+			"x-api-slug": "zapier",
+			"description": "Connect the apps you use everyday to automate your work and be more productive. 1000+ apps and easy integrations - get started in minutes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/38-zapier.jpg",
+			"humanURL": "https://zapier.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/zapier/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Elastic.io",
+			"x-api-slug": "elastic-io",
+			"description": "Microservices-based iPaaS for real-time data synchronisation across disparate cloud-based and on-premise applications, platforms and databases.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/40-elastic-io.jpg",
+			"humanURL": "http://elastic.io",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/elastic-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Temboo",
+			"x-api-slug": "temboo",
+			"description": "The software toolkit that makes everyone stand taller. Tools for digital transformation, empowering everyone to innovate with IoT, APIs, and emerging tech.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/57-temboo.jpg",
+			"humanURL": "https://www.temboo.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/temboo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudWork",
+			"x-api-slug": "cloudwork",
+			"description": "Cloudwork is a service that allows users to automate tasks between Google Apps, Salesforce, Evernote, Zoho, Twitter, Freshbooks, MailChimp, Zendesk, Dropbox, WordPress and others.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloudwork-logo.png",
+			"humanURL": "https://cloudwork.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/cloudwork/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SnapLogic",
+			"x-api-slug": "snaplogic",
+			"description": "SnapLogics Cloud Integration Platform as a Service helps to connect your data, apps and APIs faster. Get more from your big data investments with SnapLogic.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/108-snaplogic.jpg",
+			"humanURL": "http://www.snaplogic.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/snaplogic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloverETL",
+			"x-api-slug": "cloveretl",
+			"description": "CloverETL is a Java-based data integration software (ETL) for rapid development and automation of data transformations, data cleansing and data quality, data migration and distribution of data into applications, databases, cloud and data warehouses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/113-cloveretl.jpg",
+			"humanURL": "http://www.cloveretl.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/cloveretl/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Talend",
+			"x-api-slug": "talend",
+			"description": "Talend open source integration software offers real-time solutions for all types of data integration. Learn more about the benefits of Hadoop and Spark.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/114-talend.jpg",
+			"humanURL": "https://www.talend.com",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/talend/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pardot",
+			"x-api-slug": "pardot",
+			"description": "Pardot B2B marketing automation by Salesforce helps marketers create more leads, generate more pipeline, and empower sales to close more deals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/884-pardot.jpg",
+			"humanURL": "http://www.pardot.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/pardot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ecobee",
+			"x-api-slug": "ecobee",
+			"description": "Did you know?     ??? Thermostats represent 50-70% of your home energy use.  ??? The average ecobee customer saves 26% on their energy bill each year.  ??? 96% of ecobee customers would recommend ecobee to a friend.  ??? Over 80% of ecobee customers run an ene...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1835-ecobee.jpg",
+			"humanURL": "http://www.ecobee.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/ecobee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nest",
+			"x-api-slug": "nest",
+			"description": "Discover connected home devices from Nest  thermostats, indoor and outdoor security cameras, smoke and carbon monoxide alarm, security system, video doorbell and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1858-nest.jpg",
+			"humanURL": "http://nest.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/nest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DataFire",
+			"x-api-slug": "datafire",
+			"description": "DataFire allows you to process and transfer data between APIs, databases, and more. DataFire has hundreds of data sources and destinations for you to choose from. DataFire is built on open standards like RSS and Swagger so you can easily add your own integrations. Use JavaScript to transform data from one connection into input for another.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datafire-logo.png",
+			"humanURL": "https://datafire.io/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/datafire/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stringify",
+			"x-api-slug": "stringify",
+			"description": "They are hard at work developing new ways to help you connect your life. This begins with a solution that helps you discover, design and control new experiences by meaningfully connecting those things that matter most. Theyre helping connect our life so you can live it.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stringify-logo.png",
+			"humanURL": "https://www.stringify.com",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/stringify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HashiCorp",
+			"x-api-slug": "hashicorp",
+			"description": "HashiCorp enables organizations to have consistent workflows to provision, secure, connect, and run any infrastructure for any application.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19981-hashicorp.jpg",
+			"humanURL": "https://www.hashicorp.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/hashicorp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rockwell Automation",
+			"x-api-slug": "rockwell-automation",
+			"description": "Our official company page is a space to share your questions and ideas about our company and the manufacturing industry. In return, well share compelling, inspiring and humorous content that celebrates manufacturing, engineers and innovation. We hope ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20047-rockwell-automation.jpg",
+			"humanURL": "http://www.rockwellautomation.com/",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/rockwell-automation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Opto 22",
+			"x-api-slug": "opto-22",
+			"description": "Opto 22 manufactures controllers, I/O, solid-state-relays, and software products that link electrical, mechanical, and electronic devices to networks and computers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20092-opto-22.jpg",
+			"humanURL": "http://opto22.com",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/opto-22/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"x-api-slug": "aws-ec2-systems-manager",
+			"description": "Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. By providing a management approach that is designed for the scale and agility of the cloud but extends into your on-premises data center, EC2 Systems Manager makes it easier for you to seamlessly bridge your existing infrastructure with AWS.EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/systems-manager/",
+			"baseURL": ":///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-ec2-systems-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Step Functions",
+			"x-api-slug": "aws-step-functions",
+			"description": "AWS Step Functions makes it easy to coordinate the components of distributed applications and microservices using visual workflows. Building applications from individual components that each perform a discrete function lets you scale and change applications quickly. Step Functions is a reliable way to coordinate components and step through the functions of your application. Step Functions provides a graphical console to arrange and visualize the components of your application as a series of steps. This makes it simple to build and run multi-step applications. Step Functions automatically triggers and tracks each step, and retries when there are errors, so your application executes in order and as expected. Step Functions logs the state of each step, so when things do go wrong, you can diagnose and debug problems quickly. You can change and add steps without even writing code, so you can easily evolve your application and innovate faster.AWS Step Functions manages the operations and underlying infrastructure for you to help ensure your application is available at any scale.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-step-functions.png",
+			"humanURL": "https://aws.amazon.com/step-functions/",
+			"baseURL": ":///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-step-functions/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Automation",
+			"x-api-slug": "azure-automation",
+			"description": "Automate all of those frequent, time-consuming, and error-prone cloud management tasks. Azure Automation helps you focus on work that adds business value. By reducing errors and boosting efficiency, it also helps to lower your operational costs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/automation/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azuqua",
+			"x-api-slug": "azuqua",
+			"description": "Azuqua helps people integrate their applications and automate their business critical processes without code or specialized skills.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28322-azuqua.jpg",
+			"humanURL": "http://bizible.com",
+			"baseURL": "https:///",
+			"tags": "Automation",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azuqua/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Automation",
+	"include": [
+		{
+			"name": "Zapier",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/zapier/apis.yaml"
+		},
+		{
+			"name": "Elastic.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/elastic-io/apis.yaml"
+		},
+		{
+			"name": "Temboo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/temboo/apis.yaml"
+		},
+		{
+			"name": "CloudWork",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/cloudwork/apis.yaml"
+		},
+		{
+			"name": "SnapLogic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/snaplogic/apis.yaml"
+		},
+		{
+			"name": "CloverETL",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/cloveretl/apis.yaml"
+		},
+		{
+			"name": "Talend",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/talend/apis.yaml"
+		},
+		{
+			"name": "Pardot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/pardot/apis.yaml"
+		},
+		{
+			"name": "ecobee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/ecobee/apis.yaml"
+		},
+		{
+			"name": "Nest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/nest/apis.yaml"
+		},
+		{
+			"name": "DataFire",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/datafire/apis.yaml"
+		},
+		{
+			"name": "Stringify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/stringify/apis.yaml"
+		},
+		{
+			"name": "HashiCorp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/hashicorp/apis.yaml"
+		},
+		{
+			"name": "Rockwell Automation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/rockwell-automation/apis.yaml"
+		},
+		{
+			"name": "Opto 22",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/opto-22/apis.yaml"
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-ec2-systems-manager/apis.yaml"
+		},
+		{
+			"name": "AWS Step Functions",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/aws-step-functions/apis.yaml"
+		},
+		{
+			"name": "Azure Automation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azure-automation/apis.yaml"
+		},
+		{
+			"name": "Azuqua",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/azuqua/apis.yaml"
+		}
+	]
+}

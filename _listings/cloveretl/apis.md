@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/113-clover
 x-kinRank: "7"
 x-alexaRank: "541930"
 tags: Automation
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/automation/master/_listings/cloveretl/apis.md
 specificationVersion: "0.14"
 apis: []
